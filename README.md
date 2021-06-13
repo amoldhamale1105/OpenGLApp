@@ -8,3 +8,6 @@ Please note that the glew and glfw libs are linked statically and thus necessita
 Run cmake .. from the build dir or reconfigure all if loaded in VSCode  
 Run make or build all if loaded in VSCode  
 The generated binary must be present in the bin dir on a successful build
+
+# Output
+A blue Test Window opens with a red triangle in the middle
